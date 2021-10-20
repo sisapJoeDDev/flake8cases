@@ -3,11 +3,11 @@
 ### Long variables
 
 ##### Before
-```
+```python
 self.collector_variables['request_period_in_seconds'] = request_period_in_seconds
 ```
 ##### After
-```
+```python
 self.collector_variables[
                          'request_period_in_seconds'
                         ] = request_period_in_seconds
