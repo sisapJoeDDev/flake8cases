@@ -1,6 +1,6 @@
 # flake8 CASES
 
-### LONG VARIABLES
+### Long variables
 
 ##### Before
 ```
